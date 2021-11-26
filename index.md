@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈哈
 
 You can use the [editor on GitHub](https://github.com/wy2919/jd_sign_bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
